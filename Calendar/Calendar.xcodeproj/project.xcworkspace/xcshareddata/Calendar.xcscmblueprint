@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9C9719DFBC988DABF005CC82C96A12E2BB29867C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9C9719DFBC988DABF005CC82C96A12E2BB29867C" : 0,
+    "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36C5B228-7F8F-488C-B21C-E7E0331DE6C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9C9719DFBC988DABF005CC82C96A12E2BB29867C" : "swiftcalendar\/",
+    "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Calendar",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Calendar\/Calendar.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/suesu123456\/-swift-alimonyCal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06B08C0A9D479E7A517F56AB1B1185642AD4AE2D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/suesu123456\/SwiftCalendar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C9719DFBC988DABF005CC82C96A12E2BB29867C"
+    }
+  ]
+}
